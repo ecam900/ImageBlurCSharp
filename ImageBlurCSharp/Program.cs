@@ -6,7 +6,7 @@ namespace ImageBlurCSharp
     {
         static void Main(string[] args)
         {
-            int[,] multiarray = { { 0, 0, 0, 0 },
+            int[,] multiarray =     { { 0, 0, 0, 0 },
                                       { 1, 0, 0, 0 },
                                       { 2, 0, 0, 0 },
                                       { 3, 0, 0, 0 } };
