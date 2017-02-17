@@ -39,7 +39,7 @@ namespace ImageBlurCSharp
 
 
 /* REF:
-    - Difference between Array.GetLength() and Array.Length():
+    1- Difference between Array.GetLength() and Array.Length():
     http://stackoverflow.com/questions/2044591/what-is-the-difference-between-array-getlength-and-array-length
     
 */
