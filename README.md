@@ -5,5 +5,15 @@ Practice with multidimensional arrays in C. It will be deployed in three stages:
 Will just print out the multidimensional array. Will use nested forloop for this.<br />
 <b>2. Image transformation at a specific pixel.</b><br />
 Each time the loop finds a "1" in the array, it will change the "0" to a "1" one level up, down, left and right to it. <br />
+Example:<br />
+0000<br />
+0010<br />
+0000<br />
+0000<br />
+Will become: <br />
+0010<br />
+0111<br />
+0010<br />
+0000<br />
 <b>3. Manhattan Distance transformation.</b><br />
 Will changea all possible "pixels" within the range of motion passed to the blur method.
