@@ -3,7 +3,7 @@ Practice with multidimensional arrays in C. It will be deployed in three stages:
 
 <b>1. Printing out multidimensional array. (DONE)</b> <br />
 Will just print out the multidimensional array. Will use nested forloop for this.<br />
-<b>2. Image transformation at a specific pixel.</b><br />
+<b>2. Image transformation at a specific pixel. (DONE)</b><br />
 Each time the loop finds a "1" in the array, it will change the "0" to a "1" one level up, down, left and right to it. <br />
 Example:<br />
 0000<br />
